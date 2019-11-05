@@ -1,6 +1,6 @@
 
 
-const API_KEY = 'AIzaSyBC9puPjTcS63cU_HLfcSqOqs3Lrx7QXvk';
+const API_KEY = '';
 
 function init () {
     document.querySelector("#polyQuery").addEventListener("submit",searchPoly)
